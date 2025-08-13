@@ -16,7 +16,7 @@ export const LandingPage = () => {
         {/* Removed dark overlay */}
 
         <div className="relative m-4 flex flex-col items-center text-center max-w-4xl">
-          <h1 className="font-AlluraRegular text-black text-4xl md:text-6xl lg:text-7xl font-extrabold leading-tight">
+          <h1 className="font-AlluraRegular text-black text-[1.9rem] md:text-[3.25rem] lg:text-[4rem] font-extrabold leading-tight">
             Connect with the Modern World
           </h1>
           <p className="mt-4 text-black font-baskervvilleRegular text-lg md:text-2xl lg:text-3xl font-medium">
